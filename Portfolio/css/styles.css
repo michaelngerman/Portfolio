@@ -1,0 +1,31 @@
+.logo-image {
+    width: 100px;
+}
+
+.line {
+    width: 100%;
+    border-top: 3px solid grey;
+}
+
+.smallest-size {
+    width: 250px;
+}
+
+.main-image {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.smallest-size-container 
+.top-row {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.text-align-center {
+    text-align: center;
+}
